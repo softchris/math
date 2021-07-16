@@ -1,3 +1,3 @@
-module github.com/softchris/math@v0.1.0
+module github.com/softchris/math
 
 go 1.16
